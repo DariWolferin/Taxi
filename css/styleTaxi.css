@@ -178,7 +178,7 @@ html, body {
   width: 100%;
   height: 100vh; }
   .main-screen__overlay {
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.5);
     position: absolute;
     top: 0;
     left: 0;
